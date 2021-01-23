@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Name": "Dog Food"
+    },
+    {
+        "Id": 2,
+        "Name": "Cat Food"
+    },
+    {
+        "Id": 3,
+        "Name": "Bird Food"
+    },
+    {
+        "Id": 4,
+        "Name": "Dog Supplies"
+    },
+    {
+        "Id": 5,
+        "Name": "Cat Supplies"
+    },
+    {
+        "Id": 6,
+        "Name": "Cat Supplies"
+    }
+]

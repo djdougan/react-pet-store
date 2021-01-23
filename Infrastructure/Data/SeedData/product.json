@@ -1,0 +1,121 @@
+[
+    {
+        "Id": 1,
+        "Name": "Nutrience® SubZero Small Breed Dog Food - Grain Free, Prairie Red",
+        "Description": "SubZero Small Breed Prairie Red formula is prepared with fresh, never frozen Canadian sources of beef, bison, wild boar, Pacific wild-caught fish and real freeze-dried beef liver for a superior flavor that even the finickiest dogs will crave. The smaller size kibble makes it Ideal for smaller mouths.",
+        "UPC": "5280512",
+        "NetWeight": "2.27KG",
+        "price": 29.99,
+        "SalePrice": null,
+        "PictureUrl": "images/b7666ed0-f9a0-4912-b802-33605afa3350.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Id": 2,
+        "Name": "Nutrience® SubZero Grain Free Dog Food - Prairie Red Pate",
+        "Description": "Inspired by the same Canadian flavours, Nutrience SubZero Prairie Red Beef Pate is the perfect pairing to our Subzero Prairie Red dry food diet. Combining canned food & kibble increases palatability, helps keep pets hydrated and is an easy way to introduce variety in your pets everyday diet.",
+        "UPC": "5265699",
+        "NetWeight": "170g",
+        "price": 3.19,
+        "SalePrice": null,
+        "PictureUrl": "images/c9899aa6-d618-4094-b062-f26b3326173c.jpg",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Id": 3,
+        "Name": "Dogit DreamWell Rectangular Dog Cuddle Bed",
+        "Description": "The Dogit DreamWell Cuddle Bed offers your pet a comfortable and cozy napping oasis. Ideal for dogs that like an elevated surface to rest their sleepy head. Our DreamWell Bed Collection for dogs and cats combines total comfort with a touch of style.",
+        "UPC": "5265345",
+        "NetWeight": "60x51x23cm (24x20x9in)",
+        "price": 46.69,
+        "SalePrice": null,
+        "PictureUrl": "images/89d19747-9aaf-487f-afbe-4a6b831670c8.jpg",
+        "ProductTypeId": 4,
+        "ProductBrandId": 1
+    },
+    {
+        "Id": 4,
+        "Name": "Dogit DreamWell Rectangular Dog Cuddle Bed",
+        "Description": "Give your dog a night to remember with one of our top quality ripstop Spice Podz.",
+        "UPC": "5265452",
+        "NetWeight": "42x28",
+        "price": 119.49,
+        "SalePrice": null,
+        "PictureUrl": "images/7b2969df-34db-4ec3-a3b4-3e16d48b1f27.jpg",
+        "ProductTypeId": 4,
+        "ProductBrandId": 1
+    },
+    {
+        "Id": 5,
+        "Name": "RC Pets Best Friends Dog Leash",
+        "Description": "100% original RC patterns Hardware is nickel plated to resist wear, Convenient D-ring serves as an attachment,point for RC accessories, Reflective RC signature label keeps your pet visible at night, Durable and machine washable",
+        "UPC": "5265409",
+        "NetWeight": "1 meter",
+        "price": 19.99,
+        "SalePrice": 17.99,
+        "PictureUrl": "images/4cfef6e1-94d4-422b-ac81-5ebc597e2192.jpg",
+        "ProductTypeId": 4,
+        "ProductBrandId": 3
+    },
+    {
+        "Id": 6,
+        "Name": "Genuine leather Dog Collar",
+        "Description": "If you could only own one leather collar, this should be it. Built for tough every day life of walks or playful fun at the dog park - and comfortable enough for Netflix and naps.",
+        "UPC": "526354",
+        "NetWeight": "medium",
+        "price": 17.99,
+        "SalePrice": 14.49,
+        "PictureUrl": "images/cc92d97d-1f27-47fd-8382-85ca980221ca.jpg",
+        "ProductTypeId": 4,
+        "ProductBrandId": 3
+    },
+    {
+        "Id": 7,
+        "Name": "Hands free leash for running 1.5 meter",
+        "Description": "Pet Dreamland Hands Free Leash for Running Large Dogs - Waist Dog Leash - Professional Shock Absorbing Bungee Harness - Reflective Dog Running Belt ",
+        "UPC": "526354",
+        "NetWeight": "medium",
+        "price": 35.29,
+        "SalePrice": null,
+        "PictureUrl": "images/3e48c66c-3a40-4720-9629-0f8fb4861efe.jpg",
+        "ProductTypeId": 4,
+        "ProductBrandId": 4
+    },
+    {
+        "Id": 8,
+        "Name": "Nylon Fast Snap Strap Dog Collar",
+        "Description": "Sturdy Nylon Fast Snap Strap three/four” Educator Sturdy Nylon Fast Snap Strap are produced from prime quality nylon, and come with the cutting edge Fast attach and Fast disconnect function in addition to a Steel d-ring for attaching your canine’s leash.",
+        "UPC": "526563",
+        "NetWeight": "large",
+        "price": 13.29,
+        "SalePrice": null,
+        "PictureUrl": "images/genuine-leather-collar-01.jpg",
+        "ProductTypeId": 4,
+        "ProductBrandId": 4
+    },
+    {
+        "Id": 9,
+        "Name": "Retractable dog leash 26 feet",
+        "Description": "The 26 feet Flexi tape leash which can be accessorized with the multi box and/or the LED lighting system, for dogs up to 110 lbs., as an introduction to the world of custom Retractable leashes   Intuitive handling, thanks to convenient brake button and ergonomic grip handle Fast, reliable response by the short-stop one-handed braking system, made in Germany",
+        "UPC": "522341",
+        "NetWeight": "26 feet",
+        "price": 43.29,
+        "SalePrice": null,
+        "PictureUrl": "images/3e48c66c-3a40-4720-9629-0f8fb4861efe.jpg",
+        "ProductTypeId": 4,
+        "ProductBrandId": 4
+    },
+    {
+        "Id": 10,
+        "Name": "Nutrience® SubZero Small Breed Dog Food - Grain Free, Fraser Valley",
+        "Description": "Our Fraser Valley formula is prepared with fresh, never frozen Canadian sources of poultry, Pacific wild-caught fish and real freeze-dried chicken for a superior flavor that even the finickiest dogs will crave.",
+        "UPC": "523423",
+        "NetWeight": "20 kg",
+        "SalePrice": null,
+        "PictureUrl": "images/3e48c66c-3a40-4720-9629-0f8fb4861efe.jpg",
+        "ProductTypeId": 4,
+        "ProductBrandId": 4
+    }
+]
